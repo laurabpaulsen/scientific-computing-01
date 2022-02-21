@@ -148,7 +148,7 @@ fruit.remove("apple")
 ```py
 fruit = ("banana", "apple", "orange")
 sorted(fruit)
-print(type(sorted(colours)))
+print(type(sorted(fruit)))
 ```
 
 ### Dictionaries ###
